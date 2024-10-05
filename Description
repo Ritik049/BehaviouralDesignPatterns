@@ -1,0 +1,13 @@
+Behavioural design pattern mainly deals with assignment of behaviour/responsibilites to the classes. and concerned with algorithms.
+
+Following patterns get included in it:
+-> Chain Responsibiltiy
+-> Command 
+-> Iterator
+-> Mediator
+-> Memento
+-> Observor
+-> State
+-> Strategy
+-> Template Method
+-> Visitor
