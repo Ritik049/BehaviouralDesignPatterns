@@ -1,0 +1,11 @@
+It is used to delegate the responsibilities between different handlers and these handlers give result as per need
+Request is passed along chain of handlers.
+
+
+Single responsibility principle
+OCD principle
+
+Problem : Making customer manangement application system
+Request will pass through 3 levels , 1 for basic issue, 2 for some complex issue, 3 for very serious issue.
+
+
