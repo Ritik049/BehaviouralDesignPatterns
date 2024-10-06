@@ -1,0 +1,18 @@
+This pattern is used to make request as a stand alone object.
+** Which enables the parameterisation of object by client.
+** Enables queueing operation.
+**Supports undoable operation
+
+Advantages
+** Allows easy addition of new commands wheareas in bridge we can change the implementation
+** Allows undobale operations.
+**Enables queuing operations
+
+
+Suppose we have remote, to turn off , turn on the light,
+Classes
+Interface command
+Concrete commands
+Invoker (remote)
+recivert (light)
+Client
