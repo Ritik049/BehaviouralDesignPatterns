@@ -1,0 +1,5 @@
+It is based on publishing and subscribinng model.
+
+Classes:
+Observor: subscriber
+Publisher: subscribee
