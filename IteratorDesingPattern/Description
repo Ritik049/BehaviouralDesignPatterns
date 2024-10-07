@@ -1,0 +1,8 @@
+It is used to iterator over collection of elements
+
+Classes:
+Interface Iterator have hasNext() and next;
+Iterable collection on which it get iterte,--> we generally make createIterator in it, so we need not to worry about encapsulation.
+
+
+
