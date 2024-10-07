@@ -1,0 +1,7 @@
+It is used for systems where state is chaning frequently and we need to add the state at run time also (it kind a occurrence there);
+
+Classes:
+State
+ConcreteState
+Context --> on which state get performed.
+Client
