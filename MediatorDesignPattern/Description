@@ -1,0 +1,5 @@
+It is basically used for decoupling and create less depedency over objects.
+
+Classes:
+Interface Mediator
+Subclasses
